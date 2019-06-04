@@ -1,6 +1,7 @@
 {
   "name": "ez-ngrx",
   "version": "0.0.0",
+  "homepage": "https://github.com/jonathanwoahn/ez-ngrx",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
