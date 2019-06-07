@@ -1,3 +1,12 @@
 {
-  "todo": []
+  "todo": [
+    {
+      "id": "8db21dbc-6ef9-4883-b29c-65d15270b11e",
+      "text": "Order lunch for the team"
+    },
+    {
+      "id": "83d9c97a-0441-47e9-9d7e-d1df10e56072",
+      "text": "Buy tickets for date night"
+    }
+  ]
 }

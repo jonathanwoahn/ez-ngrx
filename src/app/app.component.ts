@@ -22,6 +22,7 @@ export class AppComponent {
   ) {
     this.todoFacade = this.dynamicFacadeService.getFacade<Todo>('Todo');
     this.todos$ = this.todoFacade.entities$;
+    this.store.dispatch(this.todoFacade.actions.load(undefined));
   }
 
   addTodo(event: KeyboardEvent): void {
